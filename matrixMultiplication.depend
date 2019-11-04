@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572044406 source:/home/sawy/coding/matrixMultiplication/main.cpp
+	<iostream>
+	<pthread.h>
+	<time.h>
+
